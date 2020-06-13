@@ -1,2 +1,3 @@
-# water_pump_classification
+# Water Pump Classification
+
 Predicting the status of water pumps in Tanzania
